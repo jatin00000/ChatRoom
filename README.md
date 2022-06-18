@@ -12,6 +12,7 @@ It is built using two components:<br/>
 - A Node Server which handles incoming and outgoing of messages, and provide real time messaging without delay with help of Web Sockets<br/>
 - A client side website that it provide a interface to a user to interact with other users on this server.<br/>
 <br/>
+:warning: The Node Server and the Webpage of ChatRoom will run on your local machine i.e. it works on localhost. But, don't worry, here there is a complete guide to setup it on your machine.<br/>
 
 - - - -
 
