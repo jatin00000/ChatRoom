@@ -6,6 +6,7 @@ It is built using two components:<br/>
 - A Node Server which handles incoming and outgoing of messages, and provide real time messaging without delay with help of Web Sockets<br/>
 - A client side website that it provide a interface to a user to interact with other users on this server.<br/>
 <br/>
+
 - - - -
 
 **Features**<br/>
@@ -31,7 +32,7 @@ To experience full functional application, Kindly follow below given steps in th
 - - - -
 
 **Step 1: Importing necessary files and modules** <br/>
--In order to run server, you need to install NodeJs in your machine. <br/>
+- In order to run server, you need to install NodeJs in your machine. <br/>
 You can install it from [Here](https://nodejs.org/en/) <br/>
 <br/>
  
