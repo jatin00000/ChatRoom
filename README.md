@@ -1,5 +1,4 @@
 # <p align="center"> :speech_balloon: ChatRoom :house: :blush: </p>
-- - - -
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/94428262/174448158-f46f66a4-a572-4f1e-913c-c2f748c998fe.jpeg"
