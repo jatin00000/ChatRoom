@@ -28,4 +28,10 @@ Following image below is a example for same.<br/>
 The URL mention in the description is only the Front end part of my Project, not fully functional.<br/>
 https://jatin00000.github.io/ChatRoom/ <br/>
 To experience full functional application, Kindly follow below given steps in this document..... <br/>
+- - - -
+
+**Step 1: Importing necessary files and modules** <br/>
+-In order to run server, you need to install NodeJs in your machine. <br/>
+You can install it from [Here](https://nodejs.org/en/) <br/>
+<br/>
  
