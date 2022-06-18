@@ -39,6 +39,8 @@ You can install it from [Here](https://nodejs.org/en/) <br/>
   - Open the NodeServer folder in your Windows or Linus Terminal<br/>
   - Type the below code in terminal and it will automatically download and install two necessary modules which are nodemon and socket.io. <br/>
     - `npm i socket.io nodemon`<br/>
+    - Below is example of installation of nodemon module through Windows terminal.<br/>
+    - ![Screenshot (6256)](https://user-images.githubusercontent.com/94428262/174448021-cba22096-c58a-4ff1-ab64-8e971db45099.png)<br/>
   - Now we are ready with necessary modules to run the application.<br/>
 
 - - - -
@@ -56,10 +58,11 @@ You can install it from [Here](https://nodejs.org/en/) <br/>
  - Open the index.html file in multiple tabs of your browser.
  - Enter User name.<br/>
  - ![Screenshot 2022-06-18 211115](https://user-images.githubusercontent.com/94428262/174447912-8ad48d29-1a47-43ed-bc0f-151c514224f5.png) <br/>
- - Now its time to Enjoy the ChatRoom by chatting.<br/>
+ - Now its time to Enjoy the ChatRoom.<br/>
  ![Screenshot 2022-06-18 211242](https://user-images.githubusercontent.com/94428262/174447934-e1103e46-85c4-4e69-b7bb-608d97138e1d.png)<br/>
  
  - - - -
  
+ :blush: Enjoy Your Day :sunny: :blush:
 
 
