@@ -40,3 +40,26 @@ You can install it from [Here](https://nodejs.org/en/) <br/>
   - Type the below code in terminal and it will automatically download and install two necessary modules which are nodemon and socket.io. <br/>
     - `npm i socket.io nodemon`<br/>
   - Now we are ready with necessary modules to run the application.<br/>
+
+- - - -
+
+**Step 2: Setup NodeJs server**<br/>
+- To Set up server, once again open the NodeServer folder in your Windows or Linus Terminal<br/>
+- Type below code in the terminal
+  - `nodemon .\index.js` in your Windows terminal. <br/>
+  - ![Screenshot 2022-06-18 210912](https://user-images.githubusercontent.com/94428262/174447742-cc5e3958-b2bf-433e-9667-e9e95bac9614.png)<br/>
+  - Your server is ready. Keep the terminal running until you enjoy ChatRoom.<br/>
+ 
+ - - - -
+ 
+ **Step 3: Enjoy ChatRoom**<br/>
+ - Open the index.html file in multiple tabs of your browser.
+ - Enter User name.<br/>
+ - ![Screenshot 2022-06-18 211115](https://user-images.githubusercontent.com/94428262/174447912-8ad48d29-1a47-43ed-bc0f-151c514224f5.png) <br/>
+ - Now its time to Enjoy the ChatRoom by chatting.<br/>
+ ![Screenshot 2022-06-18 211242](https://user-images.githubusercontent.com/94428262/174447934-e1103e46-85c4-4e69-b7bb-608d97138e1d.png)<br/>
+ 
+ - - - -
+ 
+
+
