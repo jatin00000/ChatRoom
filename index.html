@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatRoom</title>
+
+    <!-- to connect our client website to your NodeJs server-->
+    <script defer src="http://localhost:8000/socket.io/socket.io.js"></script>
+
+    <!-- now add script of our client side-->
+    <script defer src="js/client.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <nav><img class='logo' src="Graphic/Logo.jpeg" alt=""></nav>
+    <h1 >Welcome to ChatRoom</h1>
+    <div class="container">
+    </div>
+    <div class="send">
+        <form action="#" id="send_container">
+            <input type="text" name="Message_input" id="Message_input">
+            <button class="btn" type="submit">send</button>
+        </form>
+    </div>
+</body>
+
+</html>
