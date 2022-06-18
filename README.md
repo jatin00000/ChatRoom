@@ -56,7 +56,7 @@ You can install it from [Here](https://nodejs.org/en/) <br/>
 - Type below code in the terminal
   - `nodemon .\index.js` in your Windows terminal. <br/>
   - ![Screenshot 2022-06-18 210912](https://user-images.githubusercontent.com/94428262/174447742-cc5e3958-b2bf-433e-9667-e9e95bac9614.png)<br/>
-  - Your server is ready. Keep the terminal running until you enjoy ChatRoom.<br/>
+- Your server is ready. Keep the terminal running until you enjoy ChatRoom.<br/>
  
  - - - -
  
