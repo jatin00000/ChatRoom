@@ -37,7 +37,7 @@ You can install it from [Here](https://nodejs.org/en/) <br/>
 <br/>
  - Copy all the files and folders from my repository of ChatRoom from github to your machine.<br/>
  - In order to import necessary modules of NodeJs, follow below steps: <br/>
-  - Open the NodeServer folder in your Windows or Linus Terminal<br/>
-  - Type the below code in terminal and it will automatically download and install two necessary modules which are nodemon and socket.io. <br/>
-   -`npm i socket.io nodemon` <br/>
-  - Now we are ready with necessary modules to run the application.<br/>
+   - Open the NodeServer folder in your Windows or Linus Terminal<br/>
+   - Type the below code in terminal and it will automatically download and install two necessary modules which are nodemon and socket.io. <br/>
+     - `npm i socket.io nodemon`<br/>
+   - Now we are ready with necessary modules to run the application.<br/>
