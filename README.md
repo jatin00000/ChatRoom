@@ -1,6 +1,6 @@
 # <p align="center"> :speech_balloon: ChatRoom :house: :blush: </p>
 - - - -
-![Logo](https://user-images.githubusercontent.com/94428262/174448158-f46f66a4-a572-4f1e-913c-c2f748c998fe.jpeg)<br/>
+<p align="center">![Logo](https://user-images.githubusercontent.com/94428262/174448158-f46f66a4-a572-4f1e-913c-c2f748c998fe.jpeg)</p><br/>
 
 ChatRoom is a web page built using HTML, CSS, JavaScript and NodeJS.<br/>
 It uses Web sockets to provide simultanous messaging feature like Whatsapp. It uses socket.io .<br/>
