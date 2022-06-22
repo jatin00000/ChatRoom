@@ -7,10 +7,10 @@
   >
 </p>
 ChatRoom is a web page built using HTML, CSS, JavaScript and NodeJS.<br/>
-It uses Web sockets to provide simultanous messaging feature like Whatsapp. It uses socket.io .<br/>
+It uses socket.io which is a library which uses principle of Web sockets protocol to provide simultanous messaging feature in real time like Whatsapp and automatic reconection.<br/>
 It is built using two components:<br/>
-- A Node Server which handles incoming and outgoing of messages, and provide real time messaging without delay with help of Web Sockets<br/>
-- A client side website that it provide a interface to a user to interact with other users on this server.<br/>
+- A Node Server which handles incoming and outgoing of messages, and provide real time messaging without delay.<br/>
+- A client side website that it provide a interface to a user to interact with other users who are also using this application.<br/>
 <br/>
 :warning: The Node Server and the Webpage of ChatRoom will run on your local machine i.e. it works on localhost. But, don't worry, here there is a complete guide to setup it on your machine.<br/>
 
