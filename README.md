@@ -69,7 +69,16 @@ You can install it from [Here](https://nodejs.org/en/) <br/>
  ![Screenshot 2022-06-18 211242](https://user-images.githubusercontent.com/94428262/174447934-e1103e46-85c4-4e69-b7bb-608d97138e1d.png)<br/>
  
  - - - -
+ **Problems** <br/>
+ A common Problem may report while running the application is *Blocked Allow-Control-Allow-Origin* </br>
+ ![image](https://user-images.githubusercontent.com/94428262/208441751-b4cc9f4d-b0ad-483e-a574-1266a12f4eb4.png) </br>
  
+ Solution to this problem is to install and enable this Chrome Extension [Allow CORS: Access-Control-Allow-Origin](https://user-images.githubusercontent.com/94428262/208441751-b4cc9f4d-b0ad-483e-a574-1266a12f4eb4.png) </br>
+ ![image](https://user-images.githubusercontent.com/94428262/208442310-c0dcc11a-523d-406a-86c7-0572e952639a.png) </br>
+ - - -
+
+ 
+
  :blush: Enjoy Your Day :sunny: :blush:
 
 
